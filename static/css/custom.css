@@ -1,0 +1,15 @@
+article h2 {
+    margin-top: 5rem;
+}
+
+article img {
+    margin: 2.5rem 0;
+}
+
+article li {
+    margin-bottom: 1rem;
+}
+
+article .blog-tags {
+    margin: 5rem 0;
+}
