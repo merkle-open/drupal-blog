@@ -1,4 +1,4 @@
-baseURL = 'https://drupal.merkle.com/'
+baseURL = 'https://merkle-open.github.io/drupal-blog/'
 languageCode = 'en'
 title = 'Merkle Drupal & Acquia Blog'
 theme = 'beautifulhugo'
@@ -36,7 +36,7 @@ theme = 'beautifulhugo'
 [[menu.main]]
     name = "About"
     url = "about"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Tags"
