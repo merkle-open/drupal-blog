@@ -1,8 +1,19 @@
-article h2 {
+blockquote {
+    margin: 2.5rem 0;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+article h2,
+article h3 {
     margin-top: 5rem;
 }
 
-article img {
+article figure {
     margin: 2.5rem 0;
 }
 

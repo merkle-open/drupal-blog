@@ -22,7 +22,7 @@ theme = 'beautifulhugo'
 
 [Author]
   name = "Merkle Drupal Team"
-  website = "https://www.merkle.com/dach/"
+  website = "https://www.merkle.com/dach/en/services/drupal"
   email = "drupal@merkle.com"
   github = "https://github.com/merkle-open"
   linkedin = "https://www.linkedin.com/company/merkle-dach"
