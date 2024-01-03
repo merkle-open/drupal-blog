@@ -1,7 +1,7 @@
 # Merkle Drupal & Acquia Blog
 ### Merkle developers blog about Drupal and Acquia.
 
-## Install
+## Installation on your local machine
 [Install Hugo](https://gohugo.io/installation/)
 
 ```
@@ -16,6 +16,8 @@ hugo server
 3. If you need images, create an `images` folder to add them there
 4. When you are done, commit your files
 5. GitHub Action will automatically build the page and deploy it.
+
+**Note:** if you don't have the permission to push to this repository, create a Pull Request and assign a maintainer of the [merkle-open Drupal team](https://github.com/orgs/merkle-open/teams/drupal).
 
 ## Credits
 ["Beautiful Hugo" Theme](https://themes.gohugo.io/themes/beautifulhugo/)
