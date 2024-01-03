@@ -1,0 +1,29 @@
+[[social_icons]]
+id = "email"
+url = "mailto:%s"
+title = "Contact the Merkle Drupal team"
+icon = "fas fa-envelope"
+
+[[social_icons]]
+id = "linkedin"
+url = "https://www.linkedin.com/company/merkle-dach"
+title = "Follow us on LinkedIn!"
+icon = "fab fa-linkedin"
+
+[[social_icons]]
+id = "instagram"
+url = "https://www.instagram.com/merkledach/"
+title = "Follow us on Instagram!"
+icon = "fab fa-instagram"
+
+[[social_icons]]
+id = "github"
+url = "https://github.com/merkle-open"
+title = "merkle-open on GitHub"
+icon = "fab fa-github"
+
+[[social_icons]]
+id = "drupal"
+url = "https://www.drupal.org/merkle"
+title = "Merkle drupal.org page"
+icon = "fab fa-drupal"
