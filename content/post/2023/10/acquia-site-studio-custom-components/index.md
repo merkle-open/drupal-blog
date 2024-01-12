@@ -2,7 +2,7 @@
 title: Acquia Site Studio - Custom components
 date: 2023-10-03
 author: Danko Krstić
-tags: ["acquia", "acquia-site-studio"]
+tags: ["acquia", "acquia-site-studio", "drupal-planet"]
 ---
 
 Until Site Studio version 6.9.0, creating components was only possible using the UI. With version 6.9.0, Site Studio has been enhanced with a new function that allows developers to create their own components by coding them with HTML, CSS and Javascript.

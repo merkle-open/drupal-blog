@@ -2,7 +2,7 @@
 title: Acquia Site Studio - Custom components with Twig Nitro
 date: 2023-10-10
 author: Danko Krstić
-tags: ["acquia", "acquia-site-studio"]
+tags: ["acquia", "acquia-site-studio", "drupal-planet"]
 ---
 
 This is a follow-up of the [Acquia Site Studio - Custom components](/post/2023/10/acquia-site-studio-custom-components/) blog post. We are going to use Nitro in the Twig templates.

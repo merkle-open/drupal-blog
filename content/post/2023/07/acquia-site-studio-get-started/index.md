@@ -2,7 +2,7 @@
 title: Acquia Site Studio - get started!
 date: 2023-07-24
 author: Danko Krstić
-tags: ["acquia", "acquia-site-studio"]
+tags: ["acquia", "acquia-site-studio", "drupal-planet"]
 ---
 
 ## Acquia Site Studio

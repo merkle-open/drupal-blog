@@ -2,7 +2,7 @@
 title: Acquia Site Studio - Create components using UI
 date: 2023-07-27
 author: Danko Krstić
-tags: ["acquia", "acquia-site-studio"]
+tags: ["acquia", "acquia-site-studio", "drupal-planet"]
 ---
 
 ## Components
