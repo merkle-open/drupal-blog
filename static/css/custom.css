@@ -1,4 +1,4 @@
-/* Action color */
+/* Action color (blue part of the Merkle Druplicon) */
 a:hover,
 a:focus,
 .blog-tags a,
@@ -13,6 +13,12 @@ a:focus,
 .pager li a:hover,
 .pager li a:focus {
     background-color: #328ccd;
+}
+
+/* Text selection color (darkblue part of the Merkle Druplicon) */
+::-moz-selection,
+::selection {
+    background-color: #1268a7;
 }
 
 blockquote {
