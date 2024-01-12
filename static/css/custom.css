@@ -24,3 +24,19 @@ article li {
 article .blog-tags {
     margin: 5rem 0;
 }
+
+/* Avatar */
+.navbar-custom .avatar-container .avatar-img-border {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.navbar-custom .avatar-container {
+    width: 80px;
+    margin-top: -25px;
+}
+@media only screen and (min-width: 768px) {
+    .navbar-custom .avatar-container {
+        width: 170px;
+        margin-top: -85px;
+    }
+}
