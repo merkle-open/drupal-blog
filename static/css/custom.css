@@ -1,3 +1,20 @@
+/* Action color */
+a:hover,
+a:focus,
+.blog-tags a,
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li a:focus,
+.post-preview a:focus,
+.post-preview a:hover {
+    color: #328ccd;
+}
+.pager li a:hover,
+.pager li a:focus {
+    background-color: #328ccd;
+}
+
 blockquote {
     margin: 2.5rem 0;
 }
