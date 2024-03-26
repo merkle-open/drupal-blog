@@ -78,8 +78,6 @@ Drupal's GraphQL implementation supports real-time updates through subscriptions
 
 The integration of GraphQL with Drupal provides developers with a modern and efficient way to interact with Drupal's content and data, offering more flexibility and better performance compared to traditional REST APIs. It empowers developers to build rich, interactive web applications while leveraging Drupal's robust content management capabilities.
 
-In the following blog posts, I will delve deeper into the world of GraphQL integration with Drupal.
-We will explore step-by-step guides on setting up GraphQL within your Drupal project, defining schemas to structure your data effectively, and executing queries to retrieve the information you need.
-Additionally, we will cover advanced topics such as mutations for data manipulation, subscriptions for real-time updates, and best practices for optimizing your GraphQL API.
+In upcoming blog installments, I will guide you through the seamless integration of GraphQL with Drupal. With the version 4 of GraphQL, developers are faced with a wave of changes, prompting the need for custom code to unlock its full potential. Together, we will navigate through comprehensive examples, demystifying the process of setting up GraphQL within your Drupal project, creating schemas to streamline data organization, and executing queries to fetch precisely the information you require. Furthermore, we will delve into advanced concepts such as mutations for data manipulation, subscriptions for real-time updates, and indispensable best practices to optimize your GraphQL API.
 
 Stay tuned for a comprehensive journey into harnessing the power of GraphQL alongside Drupal to create dynamic and efficient web applications!
