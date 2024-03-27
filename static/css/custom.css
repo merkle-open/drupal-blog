@@ -31,6 +31,13 @@ figcaption {
     margin-top: 1rem;
 }
 
+table tr th {
+    width: 50%;
+}
+table tr td {
+    vertical-align: top;
+}
+
 article h2,
 article h3 {
     margin-top: 5rem;
