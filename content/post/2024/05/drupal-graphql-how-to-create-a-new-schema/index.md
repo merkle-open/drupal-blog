@@ -46,7 +46,7 @@ In the first part we define that it’s a Query, which means that you’re using
 In the next step you make a connection to a certain schema. In this case to "Movie".
 
 And then you create the query itself by defining the data you want to retrieve.
-You need to specify data types and when you put the exclamation point on the end that means that you expect only that data type and any other will throw an error.
+You need to specify data types. When you put the exclamation point at the end that means you are expecting only that data type and any other will throw an error.
 
 This is now your first simple schema.
 
