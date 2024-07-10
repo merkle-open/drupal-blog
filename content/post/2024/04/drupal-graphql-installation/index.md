@@ -33,7 +33,7 @@ When the installation is done you will see the following screen.
 
 To reach the GraphQL part follow this path: `System administration > Configuration > Web services > GraphQL` (/admin/config/graphql)
 
-There you need to create a new server (for example movies, books, articles, etc), choose your schema (in [the next blog post](/drupal-graphql-how-to-create-a-new-schema) we will see how to create a custom schema, but for the moment stick with the default one).
+There you need to create a new server (for example movies, books, articles, etc), choose your schema (in [the next blog post](/post/2024/05/drupal-graphql-how-to-create-a-new-schema/) we will see how to create a custom schema, but for the moment stick with the default one).
 
 Once you are done with that, click on **Save** and then return to the just created server by using the **Edit** option.
 
