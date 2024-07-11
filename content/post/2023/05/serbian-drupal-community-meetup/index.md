@@ -2,7 +2,7 @@
 title: Serbian Drupal Community Meetup 2023
 date: 2023-05-29
 author: Milica Marjanović
-tags: ["drupal", "meetup"]
+tags: ["drupal", "event", "serbia", "meetup"]
 ---
 
 {{< figure link="images/serbian-drupal-community-meetup-drupal-crew.jpg" caption="Serbian Drupal Community Meetup Crew" alt="Serbian Drupal Community Meetup Crew" >}}
