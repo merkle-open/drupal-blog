@@ -8,8 +8,8 @@ CKEditor 5 is a rich text editor that offers a modern editing experience with re
 
 Using CKEditor 5 premium features requires a license. For testing purposes, there is a trial version which includes subscription of 30 days at no cost. AI Assistant and Spell and grammar check (WProofreader) also require~~s~~ licenses to be used.
 
-## Collaboration 
-![Collaboration Tool](images/001-collaboration.webp)
+## Collaboration
+{{< figure link="images/001-collaboration.webp" caption="CKEditor 5 Collaboration functionality" alt="CKEditor 5 Collaboration functionality interface" >}}
 
 Multiple users can work on the same rich text document in real time. Any changes on one editor are immediately visible on all other open editors. Collaboration Features:
 
@@ -27,8 +27,8 @@ Allow multiple users to edit simultaneously.
 
 A customizable notification system keeps you informed whenever someone mentions you in a document, comments, replies to you, or accepts or rejects suggestions. You can also integrate it with your own plugin to receive notifications via email.
 
-## AI Assistant 
-![AI Assistant Tool](images/002-ai_assistant.webp)
+## AI Assistant
+{{< figure link="images/002-ai_assistant.webp" caption="CKEditor 5 AI Assistant tools" alt="CKEditor 5 AI Assistant tools" >}}
 
 With this feature CKEditor became a powerful tool to generate, translate or summarize content. It supports some of the leading AI models like OpenAI GPT-3.5, OpenAI GPT-4, Azure OpenAI service or Amazon Bedrock service. You can select text, and use predefined commands, ask AI to change the tone and style, fix grammatical errors, make it longer or shorter and much more. The AI answers can be adjusted by using specific model or by params like “temperature” and “top_p”.
 
@@ -62,7 +62,7 @@ Quick change of letter case.
 &nbsp;
 &nbsp;
 &nbsp;
-![WProofreader spelling and grammar checker](images/003-wproofreader.webp)
+{{< figure link="images/003-wproofreader.webp" caption="CKEditor 5 WProofreader spelling and grammar checker tool" alt="CKEditor 5 WProofreader spelling and grammar checker tool" >}}
 
 WProofreader for CKEditor 5, developed by [WebSpellChecker](https://webspellchecker.com/), is a sentence correction tool, enhancing it with spelling and grammar check functionality. Its core features include:
 
