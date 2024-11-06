@@ -28,7 +28,7 @@ Allow multiple users to edit simultaneously.
 A customizable notification system keeps you informed whenever someone mentions you in a document, comments, replies to you, or accepts or rejects suggestions. You can also integrate it with your own plugin to receive notifications via email.
 
 ## AI Assistant
-{{< figure link="images/002-ai_assistant.webp" caption="CKEditor 5 AI Assistant tools" alt="CKEditor 5 AI Assistant tools" >}}
+{{< figure link="images/002-ai_assistant.webp" caption="CKEditor 5 AI Assistant tools" alt="CKEditor 5 AI Assistant tool" >}}
 
 With this feature CKEditor became a powerful tool to generate, translate or summarize content. It supports some of the leading AI models like OpenAI GPT-3.5, OpenAI GPT-4, Azure OpenAI service or Amazon Bedrock service. You can select text, and use predefined commands, ask AI to change the tone and style, fix grammatical errors, make it longer or shorter and much more. The AI answers can be adjusted by using specific model or by params like “temperature” and “top_p”.
 
