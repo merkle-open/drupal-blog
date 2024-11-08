@@ -4,6 +4,7 @@ date: 2024-08-23
 author: Stevan Antanasković
 tags: ["decoupled", "drupal", "next.js", "drupal-planet"]
 ---
+{{< figure link="images/drupal_x_nextjs.webp" caption="Drupal & Next.js" alt="Drupal & Next.js" >}}
 In today’s digital world, choosing the right technologies is essential for success. This is specifically important for enterprise level applications, where wrong decisions can increase cost in further maintenance and decrease gains provided by the solution.
 
 As user engagement is a key focus for web applications, we need to ensure that chosen technologies will be beneficial for providing best user experience.
